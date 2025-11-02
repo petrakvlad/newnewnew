@@ -1,5 +1,9 @@
 # newnewnew
 
+## Need a super-simple overview?
+
+Read `SIMPLE_OVERVIEW.md` for a plain-language tour of what the notebook, helper code, and automated tests do.
+
 ## I just want the code (no browser needed)
 
 1. Look for your terminal window. It is the black box where you type words.
